@@ -18,6 +18,6 @@ Then do one of the following:
 
 Just run flask_brevets.py through Python with "python flask_brevets.py"
 
-Build and run with Docker standardly with "docker build -t <name> ." and "docker run -p <port>:<port> <name>"
+Build and run with Docker standardly with "docker build -t NAME ." and "docker run -p PORT:PORT NAME"
 
 Run using the fancy Docker-Compose with "docker-compose up"
