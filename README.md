@@ -21,3 +21,7 @@ Just run flask_brevets.py through Python with "python flask_brevets.py"
 Build and run with Docker standardly with "docker build -t NAME ." and "docker run -p PORT:PORT NAME"
 
 Run using the fancy Docker-Compose with "docker-compose up"
+
+## Test
+
+To make sure you set up your database right, run test_cases.py with "python test_cases.py"
